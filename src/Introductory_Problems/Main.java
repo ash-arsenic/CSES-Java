@@ -2,6 +2,7 @@ package Introductory_Problems;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World!!");
+        // Wierd Algorithm Solution
+        WeirdAlgorithm.execute();
     }
 }
